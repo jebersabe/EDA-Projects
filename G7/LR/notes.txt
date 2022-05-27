@@ -1,0 +1,3 @@
+with scaling is the same as without scaling
+
+resampling smote don't help
